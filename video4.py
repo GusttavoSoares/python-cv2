@@ -1,3 +1,5 @@
+# Desenhando círculos, linhas, imagens e textos
+
 import numpy as np
 import cv2
 

@@ -1,3 +1,5 @@
+# Fundamentos e manipulação de imagens
+
 import cv2
 import random
 
